@@ -62,9 +62,7 @@ Welcome to the world of intelligent movie suggestions! This is a **Content-Based
 - Memento  
 - Batman Begins  
 
-(Makes sense right? Nolan magic. 🔮)
+**AUTHOR** - NAMAN CHACHAN
 
----
-
-## 📂 File Structure
+**EMAIL** - chachannaman@gmail.com
 
